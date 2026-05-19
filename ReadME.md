@@ -140,7 +140,7 @@ Because AegisMind AI is a proprietary intellectual property built for enterprise
 If you are a technical recruiter, engineering lead, or prospective enterprise partner wishing to evaluate the source code, inspect the underlying database schemas, or discuss commercial integration:
 
 - **Submit a Formal Request:** Please reach out through professional channels (LinkedIn/Email) stating your organization and purpose.
-- **Repository Invitation:** Upon verification, your GitHub identity will be provisioned with temporary/permanent read-access as an authorized collaborator to the private production repository here: [Secure Private Repository Link]
+- **Repository Invitation:** Upon verification, your GitHub identity will be provisioned with temporary/permanent read-access as an authorized collaborator to the private production repository here: [https://github.com/Jai0406/AegisMind-AI](https://github.com/Jai0406/AegisMind-AI)
 - **Enterprise Inquiries:** For custom enterprise feature development or localized RAG deployment strategies, please submit a formal business brief.
 
 
