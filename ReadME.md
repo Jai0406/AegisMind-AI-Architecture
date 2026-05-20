@@ -285,7 +285,7 @@ If you are a technical recruiter, engineering lead, or prospective enterprise pa
 - **Repository Invitation:** Upon verification, I will grant your GitHub account secure read-access to the private production repository.
 - **Contact Info:**
          ***✉️ Email: Vermaj658@gmail.com***
-         ***🔗 LinkedIN: Vermaj658@gmail.com***
+         ***🔗 LinkedIN: linkedin.com/in/jai-verma-a4a028204***
 - **Enterprise Inquiries:** For custom enterprise feature development or localized RAG deployment strategies, please submit a formal business brief via email.
 
 ### Engineered and Developed by Jai Verma
